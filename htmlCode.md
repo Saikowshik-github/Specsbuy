@@ -9,6 +9,14 @@
 <link rel="html" href="product.html">
 </head>
 <body>
+<header>
+    <h1>Welcome to Specsbuy</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="product.html">Products</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
 
 <div class="top-banner">product.html
   USE CODE "BLOCK10" to get 10% Off One Get One FREE
