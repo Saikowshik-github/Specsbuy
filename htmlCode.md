@@ -6,10 +6,11 @@
 <title>Specsbuy.com</title>
 <link rel="stylesheet" href="style.css"/>
 <link rel="icon" type="image/png" href="https://i.ibb.co/6W3QNyD/spectacles.png"/>
+<link rel="html" href="product.html">
 </head>
 <body>
 
-<div class="top-banner">
+<div class="top-banner">product.html
   USE CODE "BLOCK10" to get 10% Off One Get One FREE
 </div>
 
